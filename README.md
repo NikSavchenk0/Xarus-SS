@@ -1,14 +1,7 @@
 # Script
 ```lua
-local owner = "Upbolt"
-local branch = "revision"
-
-local function webImport(file)
-    return loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/%s/Hydroxide/%s/%s.lua"):format(owner, branch, file)), file .. '.lua')()
-end
-
-webImport("init")
-webImport("ui/main")
+_G.CustomUI = false
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/NikSavchenko3/Xarus-SS/main/Xarus%20SS%20(2).lua'),true))()
 ```
 # Xarus SS
 Xarus SS - this is free server side executor.
