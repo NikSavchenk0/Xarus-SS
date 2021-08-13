@@ -1,4 +1,5 @@
 # Script
+```lua
 local owner = "Upbolt"
 local branch = "revision"
 
@@ -8,5 +9,6 @@ end
 
 webImport("init")
 webImport("ui/main")
+```
 # Xarus SS
 Xarus SS - this is free server side executor.
