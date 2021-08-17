@@ -12,9 +12,16 @@ Xarus SS - this is free server side executor.
     </br>
     <img src="https://cdn.discordapp.com/attachments/694726636138004593/742408546334933002/unknown.png" width="677px"/>
 </p>
-# What's New
-<details><summary>Added hide-code!</summary>
-This is button hide code.
+
+# What's new!
+
+<details><summary>Added 2 buttons!</summary>
+Hide Button and Rejoin Button.
+
+</details>
+
+<details><summary>Added FPS!</summary>
+This is useful tool.
 
 </details>
 _sorry time out_
