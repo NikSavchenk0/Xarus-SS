@@ -10,7 +10,7 @@ Xarus SS - this is free server side executor.
 <p align="center">
     <img src="https://media.discordapp.net/attachments/740850328316149760/875766210757795920/xarusss.png"/>
     </br>
-    <a href="https://www.testing.org">
+    <a href="https://github.com/NikSavchenko3/Xarus-SS/releases">
     <img src="https://img.shields.io/github/downloads/NikSavchenko3/Xarus-SS/total?style=for-the-badge">
   </a>
     </br>
