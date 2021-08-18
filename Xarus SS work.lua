@@ -80,7 +80,8 @@ local Text = Instance.new("TextLabel")
 
 --Properties:
 
-XarusSSv11.Parent = game.CoreGui
+ScreenGui.Parent = game.CoreGui
+ScreenGui.Name = "XSSLOG"
 
 Topbar.Name = "Topbar"
 Topbar.Parent = XarusSSv11
