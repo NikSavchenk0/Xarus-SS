@@ -20,7 +20,7 @@ __   __                       _____ _____          __    __     _______         
 ]]--
 
 local function webImport(file)
-    return loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/NikSavchenko3/Xarus-SS/main/Xarus%20SS%20work.lua"):format(owner, branch, file)), file .. '.lua')()
+    return loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/NikSavchenko3/Xarus-SS/main/XarusSS.lua"):format(owner, branch, file)), file .. '.lua')()
 end
 ```
 # Xarus SS
