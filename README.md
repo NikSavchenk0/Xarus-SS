@@ -30,6 +30,8 @@ Xarus SS - this is free server side executor.
     </br>
     <a href="https://github.com/NikSavchenko3/Xarus-SS/releases">
     <img src="https://img.shields.io/github/downloads/NikSavchenko3/Xarus-SS/total?style=for-the-badge">
+    <a href="https://github.com/NikSavchenko3/Xarus-SS/releases/tag/v.1.1">
+    <img src="https://img.shields.io/github/v/release/NikSavchenko3/Xarus-SS.svg?include_prereleases&style=for-the-badge">
   </a>
     </br>
     <img src="https://media.discordapp.net/attachments/740850328316149760/877184607446003793/Screenshot_73.png" width="500px"/>
