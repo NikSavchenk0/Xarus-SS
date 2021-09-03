@@ -45,9 +45,6 @@ Xarus SS - this is free server side executor.
 * Added FPS Counter!
   * This is not bad FPS Counter.
 
-## Images/Videos
-<p align="center">
-    <img src="https://media.discordapp.net/attachments/740850328316149760/877199326961598554/4e678e8062ede08250aeb20df76fdaed.gif" />
-</p>
-  
+## Images/Videos 
+<p><img align="center" alt="gif" src="https://imgur.com/a/gyXH2v0" width="300" height="300" /></p>
 _sorry time out_
